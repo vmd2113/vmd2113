@@ -6,7 +6,7 @@
 
 ## 💼 About Me
 
-Experienced Java Backend Developer with strong foundation in building scalable, maintainable applications. I specialize in Spring Boot, JPA/Hibernate, and RESTful API design. Passionate about clean code principles, microservice architecture, and continuously enhancing my skills to deliver high-quality software solutions.
+Experienced Java Backend Developer with strong foundation knowledge Java core, Spring boot 6. I specialize in Spring Boot, JPA/Hibernate, and RESTful API design. Passionate about clean code principles, microservice architecture, and continuously enhancing my skills to deliver high-quality software solutions.
 
 - 🔭 I'm currently working on **JobTracker** - a microservice-based job management system
 - 🌱 I'm continuously learning and improving on **Spring ecosystem, Microservices architecture patterns**
@@ -88,14 +88,19 @@ Experienced Java Backend Developer with strong foundation in building scalable, 
   - Organized events focused on youth empowerment and education
 
 ## 💬 Languages
-- English (TOEIC 600) - Professional working proficiency
+- English (TOEIC 650+) - Professional working proficiency
 - Vietnamese - Native
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vmd2113&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmd2113&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmd2113&theme=tokyonight" alt="GitHub Streak" /> 
+  
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmd2113&layout=compact&theme=tokyonight" alt="Top Languages" />
+  
 </div>
 
 ## 🔗 Connect with me
